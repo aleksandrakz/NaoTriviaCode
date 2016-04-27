@@ -1,0 +1,14 @@
+ if go == "w": # wrong answer
+elif go == "i": # insult 
+    self.genSpeech("That was not a nice thing to say")
+elif go == "re": #repeat
+elif go == "c": # correct answer
+elif go == "t": # thinking to long
+elif go == "m": # someone is trying to move Nao
+elif go == "y":
+elif go == "n":
+elif go == "d": If you think so
+elif go == "u": I dont know
+			s #skip - Nao says nothing and moves on
+			q # "What is the question?"
+			p "we can ask aileen about that later, but we should move on now"
