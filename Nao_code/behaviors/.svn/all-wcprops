@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/173/trunk/behaviors
+END
+demonstrate_paper.xar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/166/trunk/behaviors/demonstrate_paper.xar
+END
+move_paper.xar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/166/trunk/behaviors/move_paper.xar
+END
+demonstrate_scissors.xar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/166/trunk/behaviors/demonstrate_scissors.xar
+END
+hand_up.xar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/166/trunk/behaviors/hand_up.xar
+END
+move_scissors.xar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/166/trunk/behaviors/move_scissors.xar
+END
+hand_down.xar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/173/trunk/behaviors/hand_down.xar
+END
+demonstrate_rock.xar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/166/trunk/behaviors/demonstrate_rock.xar
+END
+move_rock.xar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/166/trunk/behaviors/move_rock.xar
+END
