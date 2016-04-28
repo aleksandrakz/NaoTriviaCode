@@ -45,6 +45,6 @@ react_answer() is used after an answer has been tried and the participant tells 
 
 **ip.txt** contains no code. It contains the IP address at which Nao can be accessed in order to establish a connection. Nao's IP address can be found by pressing his chest button. 
 
-*Nao Cheatsheet** also does not contain any code. It stores only a list of the codes for all of the possible responses in react() and react_answer().
+**Nao Cheatsheet** also does not contain any code. It stores only a list of the codes for all of the possible responses in react() and react_answer().
 
 	
