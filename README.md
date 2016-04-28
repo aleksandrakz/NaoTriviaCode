@@ -38,5 +38,9 @@ each of these sets differs from the others in some responses, as Nao gives diffe
 The play() takes a connection to Nao, two flags indicating the correctness and confidence variables, and a participant name
 It initializes the motions Nao will make with each response. There are only two sets of motions - confident_motion and unconfident_motion. The correct motion and answer sets are chosen based on the flags and then we iterate through the list of questions and answer responses, using the functions react() and react_answer() to control Nao and interact with the participant.
 
+**motions.py** Contains code for all of the motions we programmed for Nao, including functions for the initial greeting, the final bye, pointing at a screen, shrugging, raising arms in celebration, thinking, exasperation, throwing Nao's head back, shaking his head, nodding, pumping an arm, doing a face-palm,  turning both wrists, and returning to a rest position. Actions were incorporated into almost every response so that the Nao would be as personable as possible. 
+
+The most important control functions in motions.py are react() and react_answer(). This functions are very similar. They wait for user input to decide what Nao should say. react() takes an answer and an action and, unless the experimenter enters a different input, will perform the action and say the phrase on return. This is used for Nao to give an answer to a question.
+react_answer() is used after an answer has been tried and the participant tells Nao whetehr they were correct or incorrect. 
 
 	
