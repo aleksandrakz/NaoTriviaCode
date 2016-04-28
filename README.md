@@ -43,4 +43,8 @@ It initializes the motions Nao will make with each response. There are only two 
 The most important control functions in motions.py are react() and react_answer(). This functions are very similar. They wait for user input to decide what Nao should say. react() takes an answer and an action and, unless the experimenter enters a different input, will perform the action and say the phrase on return. This is used for Nao to give an answer to a question.
 react_answer() is used after an answer has been tried and the participant tells Nao whetehr they were correct or incorrect. 
 
+**ip.txt** contains no code. It contains the IP address at which Nao can be accessed in order to establish a connection. Nao's IP address can be found by pressing his chest button. 
+
+*Nao Cheatsheet** also does not contain any code. It stores only a list of the codes for all of the possible responses in react() and react_answer().
+
 	
