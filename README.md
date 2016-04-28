@@ -24,14 +24,15 @@ The last four options begin an instance of the trivia game. Nao gets assigned th
 The play() function is in the file gameLogic.py.
 
 This file creates stores of all of Nao's responses to questions. There are long (initial) and short (if Nao has to repeat an answer) responses for each of the conditions. 
-	- all_wrong_conf_short_answers[] contains repeat responses for the AC condition
-	- all_wrong_confident_answers[] contains initial responses for the AC condition
-	- all_wrong_unconfident_answers[] contains initial responses for the AU condition
-	- all_wrong_unconf_short_answers[] contains repeat responses for the AU condition
-	- wrong_confident_answers[] contains initial responses for the MC condition
-	- wrong_unconfident_answers[] contains initial responses for the MU condition
-	- wrong_conf_short_answers[] contains repeat responses for the MC condition
-	- wrong_un_short_answers[] contains repeat responses for the MU condition
+
+	 all_wrong_conf_short_answers[] contains repeat responses for the AC condition
+	 all_wrong_confident_answers[] contains initial responses for the AC condition
+	 all_wrong_unconfident_answers[] contains initial responses for the AU condition
+	 all_wrong_unconf_short_answers[] contains repeat responses for the AU condition
+	 wrong_confident_answers[] contains initial responses for the MC condition
+	 wrong_unconfident_answers[] contains initial responses for the MU condition
+	 wrong_conf_short_answers[] contains repeat responses for the MC condition
+	 wrong_un_short_answers[] contains repeat responses for the MU condition
 
 	each of these sets differs from the others in some responses, as Nao gives different numbers of correct, incorrect and "I don't know" answers between each.
 
